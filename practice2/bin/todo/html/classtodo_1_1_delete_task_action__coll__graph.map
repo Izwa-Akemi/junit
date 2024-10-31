@@ -1,0 +1,6 @@
+<map id="todo.DeleteTaskAction" name="todo.DeleteTaskAction">
+<area shape="rect" id="node1" title=" " alt="" coords="98,93,251,119"/>
+<area shape="rect" id="node2" href="$interfacetodo_1_1_action.html" title=" " alt="" coords="5,5,93,31"/>
+<area shape="rect" id="node3" href="$classtodo_1_1_task_model.html" title=" " alt="" coords="117,5,232,31"/>
+<area shape="rect" id="node4" href="$classtodo_1_1_command.html" title=" " alt="" coords="257,5,367,31"/>
+</map>
